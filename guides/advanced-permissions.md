@@ -7,7 +7,7 @@ coverY: 0
 
 ## Farming
 
-* You buy bees, thanks to which, every day you will receive 2.1% of the amount of your investment, minus commissions!
+* You buy bees, thanks to which, every day you will receive **fixed 2.1%** of the amount of your investment, minus commissions!
 * Minimum deposit is **0.1** **BNB**  - Minimum reinvest is **0.1** **BNB**
 * You can invest max **10 BNB** per week, so after 3 weeks you will be able to invest **30 BNB**.  -You cannot reinvest, if you invest max possible deposit in current week, next week the limit will increase and you will be able to do it
 
