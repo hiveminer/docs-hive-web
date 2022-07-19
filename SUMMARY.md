@@ -1,12 +1,14 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [Introduction](README.md)
 
-## Guides
+## Dive in
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Legend](dive-in/legend.md)
+* [Advantages](dive-in/advantages.md)
+* [Earn opps](dive-in/earn-opps.md)
+* [Compound](dive-in/compound.md)
+* [Strategy](dive-in/strategy.md)
 
 ## Fundamentals
 
