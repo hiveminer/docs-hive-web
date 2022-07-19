@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Screenshot 2022-07-19 at 21.30.37.png
+coverY: 0
+---
+
 # Legend
 
 > Everyone knows that bees are very important for our planet, as they pollinate three of the four most important food crops for humans! As Einstein said, “if there are no bees, then there will be no humanity!”
