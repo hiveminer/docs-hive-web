@@ -1,5 +1,7 @@
 # Advantages
 
+![](<../.gitbook/assets/Screenshot 2022-07-19 at 21.29.08.png>)
+
 **Why is our project better than other similar projects?** 
 
 * [x] **We care**! Our project was created to draw attention to a real-life problem. Save Bees and the world. Together!
