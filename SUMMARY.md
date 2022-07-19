@@ -8,6 +8,7 @@
 * [Advantages](guides/creating-your-first-task.md)
 * [Earn opps](guides/advanced-permissions.md)
 * [Compound](dive-in/compound.md)
+* [Fees](dive-in/fees.md)
 * [Strategy](dive-in/strategy.md)
 
 ## 🔗 Links and Info
