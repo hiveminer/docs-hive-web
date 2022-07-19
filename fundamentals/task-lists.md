@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Screenshot 2022-07-19 at 21.30.37.png
+coverY: 0
+---
+
 # Links
 
 Web: [https://hiveminer.finance](https://hiveminer.finance)

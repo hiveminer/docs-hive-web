@@ -15,6 +15,5 @@
 
 * [FAQ](fundamentals/projects.md)
 * [Roadmap](fundamentals/members.md)
+* [Deployments](links-and-info/deployments.md)
 * [Links](fundamentals/task-lists.md)
-* [Deployments](fundamentals/tasks.md)
-  * [BSC](links-and-info/deployments/bsc.md)
