@@ -41,20 +41,20 @@ Learn the idea behind Hive Miner:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="links-and-info/faq.md" %}
-[faq.md](links-and-info/faq.md)
+{% content-ref url="fundamentals/projects.md" %}
+[projects.md](fundamentals/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="links-and-info/roadmap.md" %}
-[roadmap.md](links-and-info/roadmap.md)
+{% content-ref url="fundamentals/members.md" %}
+[members.md](fundamentals/members.md)
 {% endcontent-ref %}
 
-{% content-ref url="links-and-info/links.md" %}
-[links.md](links-and-info/links.md)
+{% content-ref url="fundamentals/task-lists.md" %}
+[task-lists.md](fundamentals/task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="links-and-info/deployments/" %}
-[deployments](links-and-info/deployments/)
+{% content-ref url="fundamentals/tasks.md" %}
+[tasks.md](fundamentals/tasks.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

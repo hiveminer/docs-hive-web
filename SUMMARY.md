@@ -12,8 +12,8 @@
 
 ## 🔗 Links and Info
 
-* [FAQ](links-and-info/faq.md)
-* [Roadmap](links-and-info/roadmap.md)
-* [Links](links-and-info/links.md)
-* [Deployments](links-and-info/deployments/README.md)
+* [FAQ](fundamentals/projects.md)
+* [Roadmap](fundamentals/members.md)
+* [Links](fundamentals/task-lists.md)
+* [Deployments](fundamentals/tasks.md)
   * [BSC](links-and-info/deployments/bsc.md)
