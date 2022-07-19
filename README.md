@@ -19,16 +19,16 @@ Save bees from extinction, earn **BNB**, **AVAX**, **FTM** and so on together wi
 
 Learn the idea behind Hive Miner:
 
-{% content-ref url="dive-in/legend.md" %}
-[legend.md](dive-in/legend.md)
+{% content-ref url="guides/creating-your-first-project.md" %}
+[creating-your-first-project.md](guides/creating-your-first-project.md)
 {% endcontent-ref %}
 
-{% content-ref url="dive-in/advantages.md" %}
-[advantages.md](dive-in/advantages.md)
+{% content-ref url="guides/creating-your-first-task.md" %}
+[creating-your-first-task.md](guides/creating-your-first-task.md)
 {% endcontent-ref %}
 
-{% content-ref url="dive-in/earn-opps.md" %}
-[earn-opps.md](dive-in/earn-opps.md)
+{% content-ref url="guides/advanced-permissions.md" %}
+[advanced-permissions.md](guides/advanced-permissions.md)
 {% endcontent-ref %}
 
 {% content-ref url="dive-in/compound.md" %}
@@ -41,20 +41,20 @@ Learn the idea behind Hive Miner:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="links-and-info/faq.md" %}
+[faq.md](links-and-info/faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="links-and-info/roadmap.md" %}
+[roadmap.md](links-and-info/roadmap.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="links-and-info/links.md" %}
+[links.md](links-and-info/links.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="links-and-info/deployments/" %}
+[deployments](links-and-info/deployments/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
