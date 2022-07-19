@@ -1,7 +1,7 @@
 # Links
 
+Web: [https://hiveminer.finance](https://hiveminer.finance)
 
+Telegram: [https://t.me/hivefiv2](https://t.me/hivefiv2)
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
-{% endhint %}
+Twitter: [https://twitter.com/hivefiv2](https://twitter.com/hivefiv2)
