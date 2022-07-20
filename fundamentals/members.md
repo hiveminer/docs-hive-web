@@ -10,9 +10,9 @@ coverY: 0
 * [x] Social Networks Launch
 * [x] Binance Smart Chain launch
 * [x] Polygon launch
-* [ ] Avalanche launch
-* [ ] Fantom launch
-* [ ] Cronos launch
-* [ ] Tron launch
+* [x] Avalanche launch
+* [x] Fantom launch
+* [x] Cronos launch
+* [x] Tron launch
 * [ ] Arbitrum launch
 * [ ] NFT mint for TOP leaders
